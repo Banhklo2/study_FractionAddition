@@ -1,4 +1,4 @@
-package fradtionaddition;
+package fractionaddition;
 
 import java.util.Scanner;
 

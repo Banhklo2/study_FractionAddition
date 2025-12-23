@@ -1,4 +1,4 @@
-package fradtionaddition;
+package fractionaddition;
 
 public class FractionCalculator {
 
